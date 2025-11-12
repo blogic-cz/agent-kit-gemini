@@ -26,7 +26,7 @@ MCP server integrations for Gemini CLI - browser automation, error tracking, and
 npm install -g @google/gemini-cli@latest
 
 # Install extension with auto-update enabled
-gemini extensions install blogic-cz/agent-kit-gemini --auto-update
+gemini extensions install https://github.com/blogic-cz/agent-kit-gemini --auto-update
 
 # Verify installation
 gemini extensions list
