@@ -37,30 +37,10 @@ gemini
 
 The extension provides guidance to Gemini on when and how to use each tool automatically.
 
-## Uninstall
+## License
 
-```bash
-gemini extensions uninstall agent-kit
-```
+MIT
 
-## Optional Configuration
+## Author
 
-**Sentry Cloud** (for production errors):
-```bash
-export SENTRY_AUTH_TOKEN="your-token"
-```
-
-**Agentsfera** (for extended APIs):
-```bash
-export AGENTSFERA_API_KEY="your-key"
-```
-
-## Support
-
-- Issues: [agent-kit-gemini repository](https://github.com/blogic-cz/agent-kit-gemini/issues)
-- Full documentation: See [GEMINI.md](./GEMINI.md)
-- Claude Code version: [blogic-marketplace/agent-kit](https://github.com/blogic-cz/blogic-marketplace/tree/main/agent-kit)
-
----
-
-**Blogic** - Version 1.0.0
+Blogic - https://github.com/blogic-cz
