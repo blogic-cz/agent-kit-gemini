@@ -13,8 +13,10 @@
       "args": ["-y", "@spotlightjs/spotlight", "--stdio-mcp"]
     },
     "sentry": {
-      "url": "https://mcp.sentry.dev/mcp",
-      "transport": "http"
+      "httpUrl": "https://mcp.sentry.dev/mcp",
+      "oauth": {
+        "enabled": true
+      }
     },
     "agentsfera": {
       "command": "npx",
