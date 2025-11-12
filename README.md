@@ -27,7 +27,7 @@ gemini extensions install https://github.com/blogic-cz/agent-kit-gemini --auto-u
 | **sentry** | Cloud error tracking |
 | **agentsfera** | Extended API capabilities |
 
-**Requirements:** Gemini CLI 0.4.0+, Node.js 18+, Chrome/Chromium
+**Requirements:** Gemini CLI 0.4.0+, Node.js 22+, Chrome/Chromium
 
 ## Usage
 
