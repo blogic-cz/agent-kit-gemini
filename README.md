@@ -10,6 +10,12 @@ npm install -g @google/gemini-cli@latest
 gemini extensions install https://github.com/blogic-cz/agent-kit-gemini --auto-update
 ```
 
+## Requirements
+
+**Node.js LTS** is required for MCP servers to work properly.
+
+→ Download: https://nodejs.org
+
 ---
 
 ## What's Included
