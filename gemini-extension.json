@@ -1,15 +1,9 @@
 {
   "name": "agent-kit",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Enterprise-grade MCP server integrations for Gemini CLI - Chrome DevTools, Sentry, and Agentsfera APIs",
   "author": "Blogic",
   "mcpServers": {
-    "agentsfera": {
-      "httpUrl": "https://api.agentsfera.ai",
-      "oauth": {
-        "enabled": true
-      }
-    },
     "chrome-dev-tools": {
       "command": "npx",
       "args": ["-y", "chrome-devtools-mcp@latest"]
